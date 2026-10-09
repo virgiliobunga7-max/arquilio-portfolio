@@ -1,0 +1,16 @@
+ARQUÍLIO — SERVIÇOS DE ARQUITETURA
+
+FICHEIROS
+- index.html — página principal do site.
+- assets/ — logótipo e imagens locais do portfólio.
+
+NOTAS ANTES DE PUBLICAR
+- O site foi actualizado preservando a estrutura e o estilo original.
+- O logótipo oficial foi colocado no cabeçalho e na secção institucional.
+- As imagens fornecidas foram guardadas localmente para evitar dependência de links externos.
+- Confirme que tem autorização para publicar todas as imagens e se representam projectos da Arquílio ou referências visuais.
+- Verifique o contacto WhatsApp e a localização antes da publicação.
+- O menu foi ajustado para continuar visível em ecrãs pequenos.
+
+PUBLICAÇÃO GRATUITA
+Pode publicar a pasta num repositório GitHub e activar GitHub Pages. O site é estático e não necessita de servidor próprio.
